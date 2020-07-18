@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Aparito"
   company_url = "https://www.aparito.com/"
   location = "Wales, UK"
-  date_start = "2018"
-  date_end = "2019"
+  date_start = "2018-01-01"
+  date_end = "2019-01-01"
   description = """
   Aparito is a digital health company, that uses mobile phone applications and wearables to monitor patients outside the hospital setting. I supported the remote patient monitoring studies by analysing data, including activity and physiological signals from wearable devices, real-time symptoms, medication adherence and patient reported outcomes.
   """
@@ -33,8 +33,8 @@ date_format = "Jan 2006"
   company = "Keele University"
   company_url = ""
   location = "Keele, UK"
-  date_start = "2013"
-  date_end = "2019"
+  date_start = "2013-01-01"
+  date_end = "2019-01-01"
   description = """I developed computational models of the musculoskeletal system and taught coding and biomedical signal processing on the MSc in Biomedical Engineering."""
 
   [[experience]]
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
     company = "Rehabilitation Institute of Chicago, and Functional Electrical Stimulation Centre, USA"
     company_url = ""
     location = ""
-    date_start = "2009"
-    date_end = "2013"
+    date_start = "2009-01-01"
+    date_end = "2013-01-01"
     description = """I developed computational models of the upper limb and hand for large-scale projects funded by the US National Institutes of Health. In parallel, I lectured on Biomechanics for a year (2011-2012) at the Sports and Exercise Science Department, Aberystwyth University, UK."""
 +++
