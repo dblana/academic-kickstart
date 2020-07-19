@@ -3,13 +3,13 @@ title: Mobile Health Technology
 summary: Remote Monitoring of Epilepsy in South African Children
 tags:
 - Wearables
-date: "2018"
+date: "2020-07-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by xx
+  caption:
   focal_point: Smart
 
 links:
