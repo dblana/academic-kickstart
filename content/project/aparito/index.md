@@ -1,22 +1,22 @@
 ---
-title: Data Science at Aparito
-summary: Mobile Health for Remote Monitoring of Epilepsy in South African Children
+title: Mobile Health Technology
+summary: Remote Monitoring of Epilepsy in South African Children
 tags:
 - Wearables
-date: "2016-04-27T00:00:00Z"
+date: "2018"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by xx
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
