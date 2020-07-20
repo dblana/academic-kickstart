@@ -1,6 +1,6 @@
 ---
 title: Soapbox Science Stoke-on-Trent
-summary: A science outreach platform that involves female scientists standing on soapboxes in busy city streets, talking with passers-by about their research.
+summary: A science outreach platform that involves female scientists standing on soapboxes in busy city streets, talking with passers-by about their research
 tags:
 - Public engagement
 - Open science

@@ -1,6 +1,6 @@
 ---
 title: Hand prosthesis control using computer modelling
-summary: The aim of this project was to enable natural control of prosthetic hands using computational modelling.
+summary: Natural control of prosthetic hands using computational modelling
 tags:
 - Biomechanics
 - Computational modelling

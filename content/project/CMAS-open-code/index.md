@@ -1,6 +1,6 @@
 ---
 title: CMAS Open Code
-summary: A free online platform for sharing code and resources among clinical movement analysis laboratories.
+summary: A free online platform for sharing code and resources among clinical movement analysis laboratories
 tags:
 - Biomechanics
 - Movement analysis

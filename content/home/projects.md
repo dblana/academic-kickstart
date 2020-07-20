@@ -34,6 +34,10 @@ subtitle = ""
      name = "Computational modelling"
      tag = "Computational modelling"
 
+     [[content.filter_button]]
+       name = "Public engagement"
+       tag = "Public engagement"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

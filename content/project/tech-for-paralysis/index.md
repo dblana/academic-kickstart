@@ -1,6 +1,6 @@
 ---
 title: Tech for paralysis
-summary: This project aims to design personalised systems to restore arm movement in people with high-level spinal cord injury.
+summary: A personalised design methodology to restore arm movement in people with high-level spinal cord injury.
 tags:
 - Biomechanics
 - Paralysis
