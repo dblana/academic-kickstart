@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-- NHS Grampian Endowment grant: Integrating real time surveillance and dynamic modelling of COVID-19 in Grampian to inform an adaptive healthcare response (2020)
+- NHS Grampian Endowment grant: Integrating real time surveillance and dynamic modelling of COVID-19 in Grampian to inform an adaptive healthcare response (2020-2021)
 - Clinical movement analysis society (CMAS) small grant: A free online platform for sharing movement analysis code and resources (2019)
 - EPSRC Healthcare Technologies grant: Personalised approach to restoration of arm function in people with high-level tetraplegia (2018-2021)
 - Research Councils UK Public Engagement with Research Catalysts: Co-Production and Creativity: ethos, typologies and innovation in public engagement practice (2017-2018)
