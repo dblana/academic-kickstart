@@ -24,6 +24,7 @@ interests:
 - Computational modelling
 - Biomechanics and human movement analysis
 - Open and reproducible science
+- Promoting women in STEM
 
 education:
   courses:
@@ -70,5 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Lecturer in Health Data Science at the University of Aberdeen. I am a member of the Aberdeen Centre for Health Data Science, and I develop and use computational tools with the aim to improve human health.
-I am very active in public engagement with research. I aim to be an advocate for women in science, and encourage young people to consider careers in STEM.
+I am a Biomedical Engineer and Lecturer in Health Data Science at the University of Aberdeen. I am a member of the [Aberdeen Centre for Health Data Science](https://www.abdn.ac.uk/achds/), where I develop and use computational tools with the aim to improve human health.
